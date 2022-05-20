@@ -1,16 +1,17 @@
-### Hi there 👋
+# hello
 
-<!--
-**squi-ddy/squi-ddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do CS\
+<https://squiddy.me>
 
-Here are some ideas to get you started:
+## stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+when the number go up
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squi-ddy&layout=compact&theme=onedark&langs_count=10)\
+java bloat be real
+
+![stats](https://github-readme-stats.vercel.app/api?username=squi-ddy&show_icons=true&theme=onedark)
+
+cool project:
+
+![website](https://github-readme-stats.vercel.app/api/pin/?username=squi-ddy&repo=website&theme=onedark)
