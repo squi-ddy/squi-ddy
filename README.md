@@ -8,7 +8,6 @@ I do CS\
 when the number go up
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squi-ddy&layout=compact&theme=github_dark&langs_count=10)\
-java bloat be real
 
 ![stats](https://github-readme-stats.vercel.app/api?username=squi-ddy&show_icons=true&theme=github_dark)
 
