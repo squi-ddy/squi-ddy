@@ -13,4 +13,4 @@ when the number go up
 
 cool project:
 
-![website](https://github-readme-stats.vercel.app/api/pin/?username=squi-ddy&repo=website&theme=github_dark)
+![website](https://github-readme-stats.vercel.app/api/pin/?username=squi-ddy&repo=bridge&theme=github_dark)
